@@ -1,0 +1,10 @@
+Flask>=2.0
+Flask-Cors>=3.0
+Flask-SQLAlchemy>=2.5
+psycopg2-binary>=2.9
+Flask-Migrate
+pytest
+pytest-flask
+Flask-Login
+Flask-WTF
+email_validator
